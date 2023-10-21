@@ -3,6 +3,8 @@ title: Master’s Project
 author: Mikael Ståldal
 type: page
 date: 2006-05-10T20:06:12+00:00
+slug: masters-project
+menu: main
 
 ---
 **Presenting XML documents on different media with stylesheets &#8211; practical use and web server integration**
@@ -22,4 +24,4 @@ Read my [Master&#8217;s Thesis][1] (in PDF format, adapted for double-sided prin
 The &#8220;XotW&#8221; prototype described in the thesis has been developed into Lagoon, which is an open source project hosted at SourceForge. See [the project page][2].
 
  [1]: /tech/thesis.pdf
- [2]: http://sourceforge.net/projects/lagoon/
+ [2]: https://github.com/mikaelstaldal/Lagoon
