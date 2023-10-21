@@ -3,7 +3,7 @@ title: Packages you might want to remove from Ubuntu 8.04 (hardy) desktop
 author: Mikael Ståldal
 type: post
 date: 2008-12-08T12:14:11+00:00
-url: /2008/12/08/packages-you-might-want-to-remove-from-ubuntu-804-hardy-desktop/
+slug: packages-you-might-want-to-remove-from-ubuntu-804-hardy-desktop
 category:
   - Linux
 

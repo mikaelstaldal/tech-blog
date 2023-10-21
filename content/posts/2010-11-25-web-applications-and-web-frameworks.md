@@ -3,7 +3,7 @@ title: Web applications and web frameworks
 author: Mikael Ståldal
 type: post
 date: 2010-11-25T15:22:59+00:00
-url: /2010/11/25/web-applications-and-web-frameworks/
+slug: web-applications-and-web-frameworks
 category:
   - AJAX
   - web

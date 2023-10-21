@@ -3,7 +3,7 @@ title: How to roll your own bootable Linux CD-ROM
 author: Mikael Ståldal
 type: post
 date: 2012-01-04T14:32:44+00:00
-url: /2012/01/04/how-to-roll-your-own-bootable-linux-cd-rom/
+slug: how-to-roll-your-own-bootable-linux-cd-rom
 category:
   - Linux
 

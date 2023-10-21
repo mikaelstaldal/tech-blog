@@ -3,7 +3,7 @@ title: Who needs rmiregistry?
 author: Mikael Ståldal
 type: post
 date: 2006-05-11T20:58:39+00:00
-url: /2006/05/11/who-needs-rmiregistry/
+slug: who-needs-rmiregistry
 category:
   - Java
 

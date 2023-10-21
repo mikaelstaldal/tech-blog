@@ -3,7 +3,7 @@ title: 'Leafpad > gedit'
 author: Mikael Ståldal
 type: post
 date: 2015-07-21T10:22:35+00:00
-url: /2015/07/21/leafpad-gedit/
+slug: leafpad-gedit
 category:
   - Linux
   - Ubuntu

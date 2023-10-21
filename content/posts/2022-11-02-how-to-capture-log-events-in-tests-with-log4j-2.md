@@ -3,7 +3,7 @@ title: How to capture log events in tests with Log4j 2
 author: Mikael Ståldal
 type: post
 date: 2022-11-02T19:25:20+00:00
-url: /2022/11/02/how-to-capture-log-events-in-tests-with-log4j-2/
+slug: how-to-capture-log-events-in-tests-with-log4j-2
 category:
   - Java
 

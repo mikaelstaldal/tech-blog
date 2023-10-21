@@ -3,7 +3,7 @@ title: java.util.Map is broken in Java 5
 author: Mikael Ståldal
 type: post
 date: 2009-08-13T14:41:18+00:00
-url: /2009/08/13/java-util-map-is-broken-in-java-5/
+slug: java-util-map-is-broken-in-java-5
 category:
   - Java
 

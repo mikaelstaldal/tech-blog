@@ -3,7 +3,7 @@ title: How to implement RESTful JSON Web Services in Java
 author: Mikael Ståldal
 type: post
 date: 2010-04-16T12:49:29+00:00
-url: /2010/04/16/how-to-implement-restful-json-web-services-in-java/
+slug: how-to-implement-restful-json-web-services-in-java
 category:
   - AJAX
   - Java

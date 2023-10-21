@@ -3,7 +3,7 @@ title: Support fake Android TV devices
 author: Mikael Ståldal
 type: post
 date: 2016-06-14T14:58:33+00:00
-url: /2016/06/14/support-fake-android-tv-devices/
+slug: support-fake-android-tv-devices
 category:
   - Android
 

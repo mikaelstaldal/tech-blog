@@ -3,7 +3,7 @@ title: Running Adobe Lightroom 4.4 in Linux
 author: Mikael Ståldal
 type: post
 date: 2013-12-17T18:27:50+00:00
-url: /2013/12/17/running-adobe-lightroom-4-4-in-linux/
+slug: running-adobe-lightroom-4-4-in-linux
 category:
   - Linux
   - Ubuntu

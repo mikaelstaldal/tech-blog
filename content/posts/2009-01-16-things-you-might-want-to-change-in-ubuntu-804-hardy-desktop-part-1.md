@@ -3,7 +3,7 @@ title: Things you might want to change in Ubuntu 8.04 (hardy) desktop, part 1
 author: Mikael Ståldal
 type: post
 date: 2009-01-16T17:45:52+00:00
-url: /2009/01/16/things-you-might-want-to-change-in-ubuntu-804-hardy-desktop-part-1/
+slug: things-you-might-want-to-change-in-ubuntu-804-hardy-desktop-part-1
 category:
   - Linux
 

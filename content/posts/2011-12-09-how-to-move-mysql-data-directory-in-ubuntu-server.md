@@ -3,7 +3,7 @@ title: How to move MySQL data directory in Ubuntu Server
 author: Mikael Ståldal
 type: post
 date: 2011-12-09T10:45:00+00:00
-url: /2011/12/09/how-to-move-mysql-data-directory-in-ubuntu-server/
+slug: how-to-move-mysql-data-directory-in-ubuntu-server
 category:
   - Linux
 

@@ -3,7 +3,7 @@ title: Implementing POX Web Services with Spring WS and JAXB
 author: Mikael Ståldal
 type: post
 date: 2010-04-29T16:37:18+00:00
-url: /2010/04/29/implementing-pox-web-services-with-spring-ws-and-jaxb/
+slug: implementing-pox-web-services-with-spring-ws-and-jaxb
 category:
   - Java
 

@@ -11,3 +11,7 @@ theme = 'ananke'
 
 [taxonomies]
   category = 'category'
+
+[permalinks]
+  [permalinks.page]
+    posts = '/:year/:month:/:day/:slug/'

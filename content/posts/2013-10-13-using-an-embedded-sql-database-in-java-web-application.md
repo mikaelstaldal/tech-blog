@@ -3,7 +3,7 @@ title: Using an embedded SQL database in Java web application
 author: Mikael Ståldal
 type: post
 date: 2013-10-13T10:06:29+00:00
-url: /2013/10/13/using-an-embedded-sql-database-in-java-web-application/
+slug: using-an-embedded-sql-database-in-java-web-application
 category:
   - Java
   - JavaEE

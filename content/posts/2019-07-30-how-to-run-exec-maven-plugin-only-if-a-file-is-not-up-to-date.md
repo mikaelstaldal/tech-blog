@@ -3,7 +3,7 @@ title: How to run exec-maven-plugin only if a file is not up-to-date
 author: Mikael Ståldal
 type: post
 date: 2019-07-30T15:17:55+00:00
-url: /2019/07/30/how-to-run-exec-maven-plugin-only-if-a-file-is-not-up-to-date/
+slug: how-to-run-exec-maven-plugin-only-if-a-file-is-not-up-to-date
 category:
   - Java
   - maven

@@ -3,7 +3,7 @@ title: Running Adobe Lightroom 4.4 in Ubuntu 14.04
 author: Mikael Ståldal
 type: post
 date: 2014-12-26T11:46:47+00:00
-url: /2014/12/26/running-adobe-lightroom-4-4-in-ubuntu-14-04/
+slug: running-adobe-lightroom-4-4-in-ubuntu-14-04
 category:
   - Linux
   - Ubuntu

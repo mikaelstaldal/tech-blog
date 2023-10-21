@@ -3,7 +3,7 @@ title: Misuse of HTTP GET is a cardinal sin
 author: Mikael Ståldal
 type: post
 date: 2009-07-17T15:49:13+00:00
-url: /2009/07/17/misuse-of-http-get-is-a-cardinal-sin/
+slug: misuse-of-http-get-is-a-cardinal-sin
 category:
   - web
 

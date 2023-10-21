@@ -3,7 +3,7 @@ title: How to enable multi-platform Docker builds on Ubuntu 22.04
 author: Mikael Ståldal
 type: post
 date: 2023-02-10T13:56:09+00:00
-url: /2023/02/10/how-to-enable-multi-platform-docker-builds-on-ubuntu-22-04/
+slug: how-to-enable-multi-platform-docker-builds-on-ubuntu-22-04
 category:
   - Docker
   - Linux

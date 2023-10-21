@@ -3,7 +3,7 @@ title: Web application frameworks in Java
 author: Mikael Ståldal
 type: post
 date: 2010-11-25T15:56:58+00:00
-url: /2010/11/25/web-application-frameworks-in-java/
+slug: web-application-frameworks-in-java
 category:
   - AJAX
   - Java

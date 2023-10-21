@@ -3,7 +3,7 @@ title: Data structures and Domain Driven Design
 author: Mikael Ståldal
 type: post
 date: 2016-02-10T21:01:37+00:00
-url: /2016/02/10/data-structures-and-ddd/
+slug: data-structures-and-ddd
 category:
   - programming
 

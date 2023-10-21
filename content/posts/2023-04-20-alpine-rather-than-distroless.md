@@ -3,7 +3,7 @@ title: Alpine rather than distroless
 author: Mikael Ståldal
 type: post
 date: 2023-04-20T06:10:33+00:00
-url: /2023/04/20/alpine-rather-than-distroless/
+slug: alpine-rather-than-distroless
 category:
   - Docker
   - Linux

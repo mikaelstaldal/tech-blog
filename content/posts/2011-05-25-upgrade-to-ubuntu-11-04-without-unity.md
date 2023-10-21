@@ -3,7 +3,7 @@ title: Upgrade to Ubuntu 11.04 without Unity
 author: Mikael Ståldal
 type: post
 date: 2011-05-25T08:43:47+00:00
-url: /2011/05/25/upgrade-to-ubuntu-11-04-without-unity/
+slug: upgrade-to-ubuntu-11-04-without-unity
 category:
   - Linux
   - Ubuntu

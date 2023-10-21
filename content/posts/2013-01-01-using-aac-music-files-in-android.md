@@ -3,7 +3,7 @@ title: Using AAC music files in Android
 author: Mikael Ståldal
 type: post
 date: 2013-01-01T22:12:42+00:00
-url: /2013/01/01/using-aac-music-files-in-android/
+slug: using-aac-music-files-in-android
 category:
   - Android
   - Linux

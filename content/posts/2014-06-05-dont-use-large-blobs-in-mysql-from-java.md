@@ -3,7 +3,7 @@ title: Don’t use large BLOBs in MySQL from Java
 author: Mikael Ståldal
 type: post
 date: 2014-06-05T13:55:50+00:00
-url: /2014/06/05/dont-use-large-blobs-in-mysql-from-java/
+slug: dont-use-large-blobs-in-mysql-from-java
 category:
   - database
   - Java

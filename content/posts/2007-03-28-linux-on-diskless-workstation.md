@@ -3,7 +3,7 @@ title: Linux on diskless workstation
 author: Mikael Ståldal
 type: post
 date: 2007-03-28T17:13:40+00:00
-url: /2007/03/28/linux-on-diskless-workstation/
+slug: linux-on-diskless-workstation
 category:
   - Linux
 

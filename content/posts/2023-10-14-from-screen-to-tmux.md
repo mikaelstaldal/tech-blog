@@ -3,7 +3,7 @@ title: From screen to tmux
 author: Mikael Ståldal
 type: post
 date: 2023-10-14T18:40:21+00:00
-url: /2023/10/14/from-screen-to-tmux/
+slug: from-screen-to-tmux
 category:
   - Linux
 

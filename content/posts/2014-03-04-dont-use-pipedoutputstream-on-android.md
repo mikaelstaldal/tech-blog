@@ -3,7 +3,7 @@ title: Don’t use PipedOutputStream on Android
 author: Mikael Ståldal
 type: post
 date: 2014-03-04T11:08:16+00:00
-url: /2014/03/04/dont-use-pipedoutputstream-on-android/
+slug: dont-use-pipedoutputstream-on-android
 category:
   - Android
   - Java

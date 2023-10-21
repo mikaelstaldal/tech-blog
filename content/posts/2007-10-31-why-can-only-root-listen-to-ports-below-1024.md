@@ -3,7 +3,7 @@ title: Why can only root listen to ports below 1024?
 author: Mikael Ståldal
 type: post
 date: 2007-10-31T17:15:47+00:00
-url: /2007/10/31/why-can-only-root-listen-to-ports-below-1024/
+slug: why-can-only-root-listen-to-ports-below-1024
 category:
   - Linux
   - security

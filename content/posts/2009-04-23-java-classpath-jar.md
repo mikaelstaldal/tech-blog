@@ -3,7 +3,7 @@ title: 'java -classpath *.jar'
 author: Mikael Ståldal
 type: post
 date: 2009-04-23T11:29:35+00:00
-url: /2009/04/23/java-classpath-jar/
+slug: java-classpath-jar
 category:
   - Java
 

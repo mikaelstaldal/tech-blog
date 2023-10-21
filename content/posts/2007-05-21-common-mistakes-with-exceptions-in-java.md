@@ -3,7 +3,7 @@ title: Common mistakes with exceptions in Java
 author: Mikael Ståldal
 type: post
 date: 2007-05-21T11:33:54+00:00
-url: /2007/05/21/common-mistakes-with-exceptions-in-java/
+slug: common-mistakes-with-exceptions-in-java
 category:
   - Java
 

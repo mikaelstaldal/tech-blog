@@ -3,7 +3,7 @@ title: Using Vaadin with Maven
 author: Mikael Ståldal
 type: post
 date: 2010-06-09T11:44:39+00:00
-url: /2010/06/09/using-vaadin-with-maven/
+slug: using-vaadin-with-maven
 category:
   - Java
   - web
