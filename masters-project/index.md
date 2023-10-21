@@ -21,5 +21,5 @@ Read my [Master&#8217;s Thesis][1] (in PDF format, adapted for double-sided prin
 
 The &#8220;XotW&#8221; prototype described in the thesis has been developed into Lagoon, which is an open source project hosted at SourceForge. See [the project page][2].
 
- [1]: https://www.staldal.nu/tech/files/thesis.pdf
+ [1]: /tech/thesis.pdf
  [2]: http://sourceforge.net/projects/lagoon/

@@ -26,4 +26,4 @@ Does anyone know about any sensible reasons for using _rmiregistry_?
  [1]: http://java.sun.com/products/jdk/rmi/
  [2]: http://java.sun.com/j2se/1.4.2/docs/tooldocs/windows/rmiregistry.html
  [3]: http://java.sun.com/j2se/1.4.2/docs/guide/rmi/getstart.doc.html
- [4]: http://www.staldal.nu/tech/files/rmitest.zip
+ [4]: /tech/rmitest.zip

@@ -49,6 +49,6 @@ I found most of the information [here][5], thanks to Roland Baudin who did most 
 
  [1]: http://www.winehq.org/
  [2]: http://sourceforge.net/projects/wine/files/Source/wine-1.7.33.tar.bz2/download
- [3]: /tech/files/Menu-wine-1.7.33.patch
+ [3]: /tech/Menu-wine-1.7.33.patch
  [4]: http://roland65.free.fr/lr-wine-1.5.17.tar.gz
  [5]: http://bugs.winehq.org/show_bug.cgi?id=30164#c37
