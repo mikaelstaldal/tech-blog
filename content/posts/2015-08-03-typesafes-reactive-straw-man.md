@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2015-08-03T12:28:22+00:00
 url: /2015/08/03/typesafes-reactive-straw-man/
-categories:
+category:
   - Java
   - Linux
   - reactive

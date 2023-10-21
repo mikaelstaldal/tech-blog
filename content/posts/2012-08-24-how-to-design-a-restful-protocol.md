@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2012-08-24T08:40:57+00:00
 url: /2012/08/24/how-to-design-a-restful-protocol/
-categories:
+category:
   - web
 
 ---

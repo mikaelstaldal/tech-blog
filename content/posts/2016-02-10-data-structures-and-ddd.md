@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2016-02-10T21:01:37+00:00
 url: /2016/02/10/data-structures-and-ddd/
-categories:
+category:
   - programming
 
 ---

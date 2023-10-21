@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2011-07-20T09:13:40+00:00
 url: /2011/07/20/php-session-timeout/
-categories:
+category:
   - PHP
   - web
 

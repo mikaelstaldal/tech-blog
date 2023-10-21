@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-01-10T18:37:12+00:00
 url: /2009/01/10/how-to-use-ctrl-tab-in-gnu-screen/
-categories:
+category:
   - Linux
 
 ---

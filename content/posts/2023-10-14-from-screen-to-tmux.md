@@ -4,8 +4,8 @@ author: Mikael Ståldal
 type: post
 date: 2023-10-14T18:40:21+00:00
 url: /2023/10/14/from-screen-to-tmux/
-categories:
-  - Uncategorized
+category:
+  - Linux
 
 ---
 I have written about how to configure screen in XTerm to support [Ctrl-Tab][1] and [convenient scrolling back in history][2].

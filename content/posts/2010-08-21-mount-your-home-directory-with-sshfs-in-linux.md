@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2010-08-21T20:25:11+00:00
 url: /2010/08/21/mount-your-home-directory-with-sshfs-in-linux/
-categories:
+category:
   - Linux
 
 ---

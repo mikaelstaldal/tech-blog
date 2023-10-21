@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2023-05-01T15:54:58+00:00
 url: /2023/05/01/in-memory-database-for-testing/
-categories:
+category:
   - database
   - Docker
   - Linux

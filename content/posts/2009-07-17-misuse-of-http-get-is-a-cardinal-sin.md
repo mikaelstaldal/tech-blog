@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-07-17T15:49:13+00:00
 url: /2009/07/17/misuse-of-http-get-is-a-cardinal-sin/
-categories:
+category:
   - web
 
 ---

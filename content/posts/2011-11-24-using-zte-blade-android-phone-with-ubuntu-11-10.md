@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2011-11-24T17:08:13+00:00
 url: /2011/11/24/using-zte-blade-android-phone-with-ubuntu-11-10/
-categories:
+category:
   - Linux
 
 ---

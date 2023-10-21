@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2015-05-16T10:34:02+00:00
 url: /2015/05/16/custom-preference-for-android/
-categories:
+category:
   - Android
 
 ---

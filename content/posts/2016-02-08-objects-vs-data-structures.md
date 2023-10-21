@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2016-02-08T21:45:21+00:00
 url: /2016/02/08/objects-vs-data-structures/
-categories:
+category:
   - Java
   - programming
 

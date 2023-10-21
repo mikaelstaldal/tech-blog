@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-01-11T21:02:41+00:00
 url: /2009/01/11/how-to-use-mousewheel-in-gnu-screen/
-categories:
+category:
   - Linux
 
 ---

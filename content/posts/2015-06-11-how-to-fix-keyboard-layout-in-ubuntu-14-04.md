@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2015-06-11T19:25:55+00:00
 url: /2015/06/11/how-to-fix-keyboard-layout-in-ubuntu-14-04/
-categories:
+category:
   - Linux
   - Ubuntu
 

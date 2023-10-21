@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2007-03-28T17:13:40+00:00
 url: /2007/03/28/linux-on-diskless-workstation/
-categories:
+category:
   - Linux
 
 ---

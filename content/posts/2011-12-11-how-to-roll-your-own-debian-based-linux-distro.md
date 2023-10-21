@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2011-12-11T22:10:30+00:00
 url: /2011/12/11/how-to-roll-your-own-debian-based-linux-distro/
-categories:
+category:
   - Linux
 
 ---

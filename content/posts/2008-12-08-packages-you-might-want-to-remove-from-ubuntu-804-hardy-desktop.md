@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2008-12-08T12:14:11+00:00
 url: /2008/12/08/packages-you-might-want-to-remove-from-ubuntu-804-hardy-desktop/
-categories:
+category:
   - Linux
 
 ---

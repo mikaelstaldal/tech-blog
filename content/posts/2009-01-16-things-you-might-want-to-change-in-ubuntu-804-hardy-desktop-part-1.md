@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-01-16T17:45:52+00:00
 url: /2009/01/16/things-you-might-want-to-change-in-ubuntu-804-hardy-desktop-part-1/
-categories:
+category:
   - Linux
 
 ---

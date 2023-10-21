@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2014-10-02T10:05:28+00:00
 url: /2014/10/02/running-jetty-as-a-service-in-ubuntu-linix/
-categories:
+category:
   - Java
   - Linux
   - Ubuntu

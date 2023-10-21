@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-07-03T19:49:06+00:00
 url: /2009/07/03/running-ubuntu-linux-on-acer-veriton-x270/
-categories:
+category:
   - hardware
   - Linux
 

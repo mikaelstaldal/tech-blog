@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2023-04-20T06:10:33+00:00
 url: /2023/04/20/alpine-rather-than-distroless/
-categories:
+category:
   - Docker
   - Linux
   - security

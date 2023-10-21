@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-01-19T17:36:17+00:00
 url: /2009/01/19/how-to-setup-pptp-vpn-in-linux/
-categories:
+category:
   - Linux
 
 ---

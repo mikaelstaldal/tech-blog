@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-11-15T11:15:05+00:00
 url: /2009/11/15/linux-with-mounted-read-only-2-0/
-categories:
+category:
   - Linux
 
 ---

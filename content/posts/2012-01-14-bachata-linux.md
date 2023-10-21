@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2012-01-14T22:42:43+00:00
 url: /2012/01/14/bachata-linux/
-categories:
+category:
   - Linux
 
 ---

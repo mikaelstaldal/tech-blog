@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2011-04-28T14:28:41+00:00
 url: /2011/04/28/using-sveon-snt1020-wifi-usb-adapter-in-ubuntu/
-categories:
+category:
   - hardware
   - Linux
 

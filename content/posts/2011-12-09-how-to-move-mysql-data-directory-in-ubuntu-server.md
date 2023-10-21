@@ -4,8 +4,8 @@ author: Mikael Ståldal
 type: post
 date: 2011-12-09T10:45:00+00:00
 url: /2011/12/09/how-to-move-mysql-data-directory-in-ubuntu-server/
-categories:
-  - Uncategorized
+category:
+  - Linux
 
 ---
 By default, the MySQL data is placed in `/var/lib/mysql`, which is a reasonable default. However, sometimes you want to place it somewhere else, such as on an other file system. Using a symlink doesn&#8217;t seem to work, so you have follow this procedure.

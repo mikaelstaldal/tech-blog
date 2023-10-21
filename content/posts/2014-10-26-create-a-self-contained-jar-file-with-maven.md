@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2014-10-26T16:12:54+00:00
 url: /2014/10/26/create-a-self-contained-jar-file-with-maven/
-categories:
+category:
   - Java
 
 ---

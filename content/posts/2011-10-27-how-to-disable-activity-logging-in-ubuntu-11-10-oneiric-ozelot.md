@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2011-10-27T17:09:56+00:00
 url: /2011/10/27/how-to-disable-activity-logging-in-ubuntu-11-10-oneiric-ozelot/
-categories:
+category:
   - Linux
   - Ubuntu
 

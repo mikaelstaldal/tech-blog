@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-04-23T16:15:06+00:00
 url: /2009/04/23/type-safe-jsp-and-jstl/
-categories:
+category:
   - Java
   - JavaEE
   - web

@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2006-09-08T09:27:57+00:00
 url: /2006/09/08/poor-javascript-performance-is-an-obstacle-in-ajax-development/
-categories:
+category:
   - AJAX
   - web
 

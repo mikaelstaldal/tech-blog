@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2009-09-18T21:10:31+00:00
 url: /2009/09/18/how-to-get-microphone-to-work-un-ubuntu-9-04/
-categories:
+category:
   - hardware
   - Linux
 

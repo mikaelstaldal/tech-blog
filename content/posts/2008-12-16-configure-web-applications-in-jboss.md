@@ -4,7 +4,7 @@ author: Mikael Ståldal
 type: post
 date: 2008-12-16T13:58:32+00:00
 url: /2008/12/16/configure-web-applications-in-jboss/
-categories:
+category:
   - Java
   - JavaEE
 
