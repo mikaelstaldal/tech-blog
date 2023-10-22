@@ -1,4 +1,7 @@
 ---
+year: 2023
+month: 2023/05
+day: 2023/05/01
 title: In-memory database for testing
 author: Mikael Ståldal
 type: post

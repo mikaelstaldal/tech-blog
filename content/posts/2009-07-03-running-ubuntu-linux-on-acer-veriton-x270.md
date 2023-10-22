@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/07
+day: 2009/07/03
 title: Running Ubuntu Linux on Acer Veriton X270
 author: Mikael Ståldal
 type: post

@@ -1,4 +1,7 @@
 ---
+year: 2012
+month: 2012/08
+day: 2012/08/24
 title: How to design a RESTful protocol
 author: Mikael Ståldal
 type: post

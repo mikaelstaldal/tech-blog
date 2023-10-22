@@ -1,4 +1,7 @@
 ---
+year: 2015
+month: 2015/06
+day: 2015/06/11
 title: How to fix keyboard layout in Ubuntu 14.04
 author: Mikael Ståldal
 type: post

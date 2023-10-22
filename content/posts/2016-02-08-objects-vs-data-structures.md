@@ -1,4 +1,7 @@
 ---
+year: 2016
+month: 2016/02
+day: 2016/02/08
 title: Objects vs. data structures
 author: Mikael Ståldal
 type: post

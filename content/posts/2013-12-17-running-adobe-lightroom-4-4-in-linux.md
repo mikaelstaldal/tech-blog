@@ -1,4 +1,7 @@
 ---
+year: 2013
+month: 2013/12
+day: 2013/12/17
 title: Running Adobe Lightroom 4.4 in Linux
 author: Mikael Ståldal
 type: post

@@ -1,4 +1,7 @@
 ---
+year: 2010
+month: 2010/11
+day: 2010/11/25
 title: Web applications and web frameworks
 author: Mikael Ståldal
 type: post

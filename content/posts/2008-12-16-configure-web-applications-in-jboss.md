@@ -1,4 +1,7 @@
 ---
+year: 2008
+month: 2008/12
+day: 2008/12/16
 title: Configure web applications in JBoss
 author: Mikael Ståldal
 type: post

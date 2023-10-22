@@ -1,4 +1,7 @@
 ---
+year: 2010
+month: 2010/04
+day: 2010/04/29
 title: Implementing POX Web Services with Spring WS and JAXB
 author: Mikael Ståldal
 type: post

@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/07
+day: 2011/07/20
 title: PHP session timeout
 author: Mikael Ståldal
 type: post

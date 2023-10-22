@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/09
+day: 2009/09/18
 title: How to get microphone to work un Ubuntu 9.04
 author: Mikael Ståldal
 type: post

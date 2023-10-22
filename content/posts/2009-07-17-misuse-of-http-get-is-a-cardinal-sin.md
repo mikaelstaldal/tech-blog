@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/07
+day: 2009/07/17
 title: Misuse of HTTP GET is a cardinal sin
 author: Mikael Ståldal
 type: post

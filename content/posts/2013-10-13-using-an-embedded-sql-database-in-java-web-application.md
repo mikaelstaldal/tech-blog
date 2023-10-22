@@ -1,4 +1,7 @@
 ---
+year: 2013
+month: 2013/10
+day: 2013/10/13
 title: Using an embedded SQL database in Java web application
 author: Mikael Ståldal
 type: post

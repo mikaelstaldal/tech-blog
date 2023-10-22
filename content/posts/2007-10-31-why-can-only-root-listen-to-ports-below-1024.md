@@ -1,4 +1,7 @@
 ---
+year: 2007
+month: 2007/10
+day: 2007/10/31
 title: Why can only root listen to ports below 1024?
 author: Mikael Ståldal
 type: post

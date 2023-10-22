@@ -1,4 +1,7 @@
 ---
+year: 2007
+month: 2007/05
+day: 2007/05/21
 title: Common mistakes with exceptions in Java
 author: Mikael Ståldal
 type: post

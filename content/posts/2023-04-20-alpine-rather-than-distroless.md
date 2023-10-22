@@ -1,4 +1,7 @@
 ---
+year: 2023
+month: 2023/04
+day: 2023/04/20
 title: Alpine rather than distroless
 author: Mikael Ståldal
 type: post

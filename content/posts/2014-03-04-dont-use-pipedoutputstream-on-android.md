@@ -1,4 +1,7 @@
 ---
+year: 2014
+month: 2014/03
+day: 2014/03/04
 title: Don’t use PipedOutputStream on Android
 author: Mikael Ståldal
 type: post

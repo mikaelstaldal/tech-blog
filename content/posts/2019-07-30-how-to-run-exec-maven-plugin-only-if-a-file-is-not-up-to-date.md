@@ -1,4 +1,7 @@
 ---
+year: 2019
+month: 2019/07
+day: 2019/07/30
 title: How to run exec-maven-plugin only if a file is not up-to-date
 author: Mikael Ståldal
 type: post

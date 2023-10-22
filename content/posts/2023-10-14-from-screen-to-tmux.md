@@ -1,4 +1,7 @@
 ---
+year: 2023
+month: 2023/10
+day: 2023/10/14
 title: From screen to tmux
 author: Mikael Ståldal
 type: post

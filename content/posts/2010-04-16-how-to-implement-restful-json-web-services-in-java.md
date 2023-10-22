@@ -1,4 +1,7 @@
 ---
+year: 2010
+month: 2010/04
+day: 2010/04/16
 title: How to implement RESTful JSON Web Services in Java
 author: Mikael Ståldal
 type: post

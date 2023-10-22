@@ -1,4 +1,7 @@
 ---
+year: 2012
+month: 2012/01
+day: 2012/01/14
 title: Bachata Linux
 author: Mikael Ståldal
 type: post

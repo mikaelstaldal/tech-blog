@@ -1,4 +1,7 @@
 ---
+year: 2015
+month: 2015/08
+day: 2015/08/03
 title: Typesafe’s Reactive Straw man
 author: Mikael Ståldal
 type: post

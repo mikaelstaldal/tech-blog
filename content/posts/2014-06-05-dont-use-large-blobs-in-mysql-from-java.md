@@ -1,4 +1,7 @@
 ---
+year: 2014
+month: 2014/06
+day: 2014/06/05
 title: Don’t use large BLOBs in MySQL from Java
 author: Mikael Ståldal
 type: post

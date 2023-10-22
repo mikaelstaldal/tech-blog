@@ -1,4 +1,7 @@
 ---
+year: 2010
+month: 2010/08
+day: 2010/08/21
 title: Mount your home directory with SSHFS in Linux
 author: Mikael Ståldal
 type: post

@@ -1,4 +1,7 @@
 ---
+year: 2015
+month: 2015/05
+day: 2015/05/16
 title: Custom Preference for Android
 author: Mikael Ståldal
 type: post

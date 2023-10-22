@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/01
+day: 2009/01/10
 title: How to use Ctrl-Tab in GNU Screen
 author: Mikael Ståldal
 type: post

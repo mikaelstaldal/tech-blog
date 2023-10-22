@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/01
+day: 2009/01/19
 title: How to setup PPTP VPN in Linux
 author: Mikael Ståldal
 type: post

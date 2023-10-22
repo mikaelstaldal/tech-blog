@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/08
+day: 2009/08/13
 title: java.util.Map is broken in Java 5
 author: Mikael Ståldal
 type: post

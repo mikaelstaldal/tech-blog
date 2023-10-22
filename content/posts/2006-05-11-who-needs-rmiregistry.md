@@ -1,4 +1,7 @@
 ---
+year: 2006
+month: 2006/05
+day: 2006/05/11
 title: Who needs rmiregistry?
 author: Mikael Ståldal
 type: post

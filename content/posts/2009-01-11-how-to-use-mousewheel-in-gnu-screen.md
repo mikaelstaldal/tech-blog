@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/01
+day: 2009/01/11
 title: How to use mousewheel in GNU Screen
 author: Mikael Ståldal
 type: post

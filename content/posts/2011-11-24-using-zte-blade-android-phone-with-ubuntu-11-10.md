@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/11
+day: 2011/11/24
 title: Using ZTE Blade Android phone with Ubuntu 11.10
 author: Mikael Ståldal
 type: post

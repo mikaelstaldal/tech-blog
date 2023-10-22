@@ -1,4 +1,7 @@
 ---
+year: 2023
+month: 2023/02
+day: 2023/02/10
 title: How to enable multi-platform Docker builds on Ubuntu 22.04
 author: Mikael Ståldal
 type: post

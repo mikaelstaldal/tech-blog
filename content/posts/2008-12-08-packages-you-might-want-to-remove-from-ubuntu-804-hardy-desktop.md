@@ -1,4 +1,7 @@
 ---
+year: 2008
+month: 2008/12
+day: 2008/12/08
 title: Packages you might want to remove from Ubuntu 8.04 (hardy) desktop
 author: Mikael Ståldal
 type: post

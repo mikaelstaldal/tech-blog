@@ -1,4 +1,7 @@
 ---
+year: 2012
+month: 2012/07
+day: 2012/07/02
 title: How to add password protection to GRUB2
 author: Mikael Ståldal
 type: post

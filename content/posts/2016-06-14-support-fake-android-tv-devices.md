@@ -1,4 +1,7 @@
 ---
+year: 2016
+month: 2016/06
+day: 2016/06/14
 title: Support fake Android TV devices
 author: Mikael Ståldal
 type: post

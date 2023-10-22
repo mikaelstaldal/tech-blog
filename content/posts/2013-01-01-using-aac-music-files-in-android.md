@@ -1,4 +1,7 @@
 ---
+year: 2013
+month: 2013/01
+day: 2013/01/01
 title: Using AAC music files in Android
 author: Mikael Ståldal
 type: post

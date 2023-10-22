@@ -1,4 +1,7 @@
 ---
+year: 2022
+month: 2022/11
+day: 2022/11/02
 title: How to capture log events in tests with Log4j 2
 author: Mikael Ståldal
 type: post

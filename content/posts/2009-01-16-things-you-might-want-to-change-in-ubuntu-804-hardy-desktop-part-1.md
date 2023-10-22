@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/01
+day: 2009/01/16
 title: Things you might want to change in Ubuntu 8.04 (hardy) desktop, part 1
 author: Mikael Ståldal
 type: post

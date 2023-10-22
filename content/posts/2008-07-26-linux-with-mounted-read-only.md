@@ -1,4 +1,7 @@
 ---
+year: 2008
+month: 2008/07
+day: 2008/07/26
 title: Linux with / mounted read-only
 author: Mikael Ståldal
 type: post

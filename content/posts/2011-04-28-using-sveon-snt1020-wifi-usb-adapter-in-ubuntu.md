@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/04
+day: 2011/04/28
 title: Using Sveon SNT1020 WiFi USB adapter in Ubuntu
 author: Mikael Ståldal
 type: post

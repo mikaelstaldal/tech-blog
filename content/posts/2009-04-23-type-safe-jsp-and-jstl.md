@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/04
+day: 2009/04/23
 title: Type safe JSP and JSTL
 author: Mikael Ståldal
 type: post

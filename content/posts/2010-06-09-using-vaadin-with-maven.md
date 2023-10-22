@@ -1,4 +1,7 @@
 ---
+year: 2010
+month: 2010/06
+day: 2010/06/09
 title: Using Vaadin with Maven
 author: Mikael Ståldal
 type: post

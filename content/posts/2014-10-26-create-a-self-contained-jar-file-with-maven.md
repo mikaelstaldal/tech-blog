@@ -1,4 +1,7 @@
 ---
+year: 2014
+month: 2014/10
+day: 2014/10/26
 title: Create a self-contained .jar file with Maven
 author: Mikael Ståldal
 type: post

@@ -1,4 +1,7 @@
 ---
+year: 2006
+month: 2006/09
+day: 2006/09/08
 title: Poor Javascript performance is an obstacle in AJAX development
 author: Mikael Ståldal
 type: post

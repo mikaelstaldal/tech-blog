@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/12
+day: 2011/12/11
 title: How to roll your own Debian based Linux distro
 author: Mikael Ståldal
 type: post

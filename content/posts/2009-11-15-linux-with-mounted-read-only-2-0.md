@@ -1,4 +1,7 @@
 ---
+year: 2009
+month: 2009/11
+day: 2009/11/15
 title: Linux with / mounted read-only 2.0
 author: Mikael Ståldal
 type: post

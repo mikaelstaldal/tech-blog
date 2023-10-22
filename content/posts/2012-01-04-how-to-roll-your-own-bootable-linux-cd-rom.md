@@ -1,4 +1,7 @@
 ---
+year: 2012
+month: 2012/01
+day: 2012/01/04
 title: How to roll your own bootable Linux CD-ROM
 author: Mikael Ståldal
 type: post

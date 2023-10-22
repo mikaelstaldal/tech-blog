@@ -1,4 +1,7 @@
 ---
+year: 2014
+month: 2014/12
+day: 2014/12/26
 title: Running Adobe Lightroom 4.4 in Ubuntu 14.04
 author: Mikael Ståldal
 type: post

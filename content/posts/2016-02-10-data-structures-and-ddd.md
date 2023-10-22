@@ -1,4 +1,7 @@
 ---
+year: 2016
+month: 2016/02
+day: 2016/02/10
 title: Data structures and Domain Driven Design
 author: Mikael Ståldal
 type: post

@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/05
+day: 2011/05/25
 title: Upgrade to Ubuntu 11.04 without Unity
 author: Mikael Ståldal
 type: post

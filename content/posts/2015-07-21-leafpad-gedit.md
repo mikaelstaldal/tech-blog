@@ -1,4 +1,7 @@
 ---
+year: 2015
+month: 2015/07
+day: 2015/07/21
 title: 'Leafpad > gedit'
 author: Mikael Ståldal
 type: post

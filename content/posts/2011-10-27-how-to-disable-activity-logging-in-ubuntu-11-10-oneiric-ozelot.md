@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/10
+day: 2011/10/27
 title: How to disable activity logging in Ubuntu 11.10 Oneiric Ozelot
 author: Mikael Ståldal
 type: post

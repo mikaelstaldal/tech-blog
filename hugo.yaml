@@ -11,8 +11,14 @@ markup:
 
 taxonomies:
   category: "category"
+  year: "year"
+  month: "month"
+  day: "day"
 
 permalinks:
   page:
     posts: "/:year/:month:/:day/:slug/"
     pages: "/:slug/"
+  year: "/:slug/"
+  month: "/:slug/"
+  day: "/:slug/"

@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/07
+day: 2011/07/31
 title: Backup your mobile phone in Linux
 author: Mikael Ståldal
 type: post

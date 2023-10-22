@@ -1,4 +1,7 @@
 ---
+year: 2011
+month: 2011/12
+day: 2011/12/09
 title: How to move MySQL data directory in Ubuntu Server
 author: Mikael Ståldal
 type: post

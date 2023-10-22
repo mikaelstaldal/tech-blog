@@ -1,4 +1,7 @@
 ---
+year: 2007
+month: 2007/03
+day: 2007/03/28
 title: Linux on diskless workstation
 author: Mikael Ståldal
 type: post
