@@ -1,0 +1,17 @@
+baseURL: "https://www.staldal.nu/tech/"
+languageCode: "en"
+title: "Mikael Ståldal's technical blog"
+description: "Programming and software"
+theme: "ananke"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: "category"
+
+permalinks:
+  page:
+    posts: "/:year/:month:/:day/:slug/"
