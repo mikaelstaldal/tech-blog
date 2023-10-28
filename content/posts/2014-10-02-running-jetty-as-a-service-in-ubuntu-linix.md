@@ -2,7 +2,7 @@
 year: 2014
 month: 2014/10
 day: 2014/10/02
-title: Running Jetty as a service in Ubuntu Linix
+title: Running Jetty as a service in Ubuntu Linux
 author: Mikael Ståldal
 type: post
 date: 2014-10-02T10:05:28+00:00
