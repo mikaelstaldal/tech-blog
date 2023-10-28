@@ -1,5 +1,5 @@
 #!/bin/bash
 
 rm -rf public/
-hugo -d public/tech
+HUGO_ENV=production hugo -d public/tech
 pagefind --site public/tech --glob '????/??/??/*/index.html'
