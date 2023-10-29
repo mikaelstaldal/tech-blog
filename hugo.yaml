@@ -32,3 +32,6 @@ menu:
   - name: Archives
     pageRef: /month
     weight: 20
+  - name: Send message to me
+    url: https://www.staldal.nu/sendmsg-en.php
+    weight: 30
