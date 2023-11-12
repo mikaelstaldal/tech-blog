@@ -1,7 +1,6 @@
 baseURL: "https://www.staldal.nu/tech/"
 languageCode: "en"
 title: "Mikael Ståldal's technical blog"
-description: "Programming and software"
 theme: "ananke"
 
 markup:
