@@ -2,4 +2,4 @@
 
 rm -rf public/
 HUGO_ENV=production hugo -d public/tech
-pagefind --site public/tech --glob '????/??/??/*/index.html'
+pagefind --site public/tech --glob '**/*/index.html'
