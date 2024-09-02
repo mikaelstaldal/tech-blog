@@ -22,10 +22,10 @@ such files.
 
 I did not find any way to fix this with Snap, so I uninstalled the Leafpad snap, and built it from source instead:
 
-1. sudo apt install libgtk2.0-dev
-2. wget http://savannah.nongnu.org/download/leafpad/leafpad-0.8.17.tar.gz
-3. tar -xzf leafpad-0.8.17.tar.gz
-4. cd leafpad-0.8.17
+1. sudo apt install build-essential libgtk2.0-dev intltool libcanberra-gtk-module
+2. wget https://savannah.nongnu.org/download/leafpad/leafpad-0.8.19.tar.gz
+3. tar -xzf leafpad-0.8.19.tar.gz
+4. cd leafpad-0.8.19
 5. ./configure
 6. make
 7. sudo make install-strip
