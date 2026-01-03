@@ -3,11 +3,10 @@ title: 'How to Publish a Gradle Project on Maven Central'
 slug: how-to-publish-a-gradle-project-on-maven-central
 author: 'Mikael Ståldal'
 type: post
-date: 2026-01-02T12:00:00+01:00
+date: 2026-01-02T15:00:00+01:00
 year: 2026
 month: 2026/01
 day: 2026/01/02
-draft: true
 category:
   - Java
   - Kotlin
@@ -45,4 +44,4 @@ Then create the bundle to be published:
 (cd mavenPublish/ && zip -r ../central-bundle.zip .)
 ```
 
-Finally, you can upload the bundle to Maven Central using the [Publisher API](https://central.sonatype.org/publish/publish-portal-api/).
+Finally, you can upload the bundle to Maven Central.
