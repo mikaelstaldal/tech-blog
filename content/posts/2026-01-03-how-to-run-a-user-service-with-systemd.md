@@ -57,6 +57,11 @@ systemctl --user enable myservice.service
 systemctl --user start myservice.service
 ```
 
+6. Enable starting the service on boot without login (you might need to run this as root):
+```bash
+sudo loginctl enable-linger
+```
+
 This will provide the service with credentials from file `~/myservice.pw`, and run the service with [AppArmor](https://en.wikipedia.org/wiki/AppArmor) 
 profile `myservice` (which you must create and load first).
 
