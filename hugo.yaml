@@ -32,7 +32,7 @@ menu:
     pageRef: /month
     weight: 20
   - name: Send message to me
-    url: https://www.staldal.nu/sendmsg-en.php
+    url: https://www.staldal.nu/sendmsg-en.html
     weight: 30
 
 params:
