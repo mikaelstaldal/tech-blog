@@ -4,6 +4,7 @@
 {{ end }}
 
 {{ define "main" }}
+  {{ $page := .}}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
@@ -14,13 +15,15 @@
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </aside>
-      {{ partial "social-share.html" . }}
+      {{- partials.IncludeCached "social/share.html" . . -}}
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
-        {{ $.Render "by" }} <strong>
+        {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
+          {{- lang.Translate "by" -}}
+        {{ end -}} <strong>
         {{- if reflect.IsSlice . -}}
             {{ delimit . ", " | markdownify }}
         {{- else -}}
@@ -47,13 +50,14 @@
         <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
       {{ end }}
     </header>
-    <div data-pagefind-body class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+    <div data-pagefind-body class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.Direction "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
-      {{ if .Site.DisqusShortname }}
-        <div class="mt6 instapaper_ignoref">
-          {{ template "_internal/disqus.html" . }}
-        </div>
+      {{ if .Site.Config.Services.Disqus.Shortname }}
+      <div class="mt6 instapaper_ignoref">
+        {{/* former internal template */}}
+        {{ partials.Include "disqus.html" . }}
+      </div>
       {{ end }}
       {{ if .Site.Params.commentoEnable }}
         <div class="mt6 instapaper_ignoref">
